@@ -1,0 +1,27 @@
+<!DOCTYPE HTML> 
+<html>
+
+<head>
+<title>Nhập Môn HTML</title>
+</head>
+
+<body>
+<h1>Xin Chào Các Bạn!</h1>
+<p>Chào mừng các bạn đến với trang web học HTML.</p>
+<3>Nội dung bài học.</h3>
+<table>
+    <tr>
+      <td>BÀI HỌC</td>
+      <td>MÔ TẢ </td>
+    </tr>
+    <tr>
+      <td>1.WW</td>
+      <td>Tìm Hiểu WW </td>
+    </tr>
+    <tr>
+    <td>2.Ngôn Ngữ HTML</td>
+    <td>Tìm Hiểu Về Các Thể HTML Cơ Bản.</td>
+    </tr>
+</table>
+</body>
+</html>
